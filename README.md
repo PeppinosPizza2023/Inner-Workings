@@ -36,3 +36,5 @@ You will need:
 - Frickcord
 - burnedpopcorn (for the UnderAnalyzer Decompiler)
 - you <3
+
+# OFFICIAL DECOMP OF FIVE NIGHTS AT FRICKBEAR'S 3: CHIPOCALYPSE
