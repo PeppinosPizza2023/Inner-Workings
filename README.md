@@ -18,11 +18,11 @@ You will need:
 
 - This decomp
 - Gamemaker 2023.11.1.129 (Get it [here.](https://releases.gamemaker.io/release-notes/2023/11)) or LTS 2022.0 onwards.
-- [This link](https://mega.nz/file/ClAD1YpJ#5pJCh1-i8RMVs3tSRIaAEX5x_fJOKiC-Dw1HdkbGr4E)  (Github doesn't take files over 25mb)
+- [This link](https://mega.nz/file/ClAD1YpJ#5pJCh1-i8RMVs3tSRIaAEX5x_fJOKiC-Dw1HdkbGr4E) or [this link](https://mega.nz/file/H0ImxZ4I#_jZLZL87tVMN2ycXB9gZMJ1fZbSqykMNG2Yw3kvIc-o) for v2.0.2 of the game (Github doesn't take files over 25mb)
 
 1. Download the decomp and every requirement mentioned above.
 2. Delete the following files: `README.md, script.log`.
-3. Move the files inside `innerworkings_files` to `innerworkings_main`
+3. Move the files inside `innerworkings_files` to `innerworkings_main` (or for 2.0.2ers, `innerworkings_2.0_files` to `innerworkings_2.0_main`)
 4. Open `Frickbears3.yyp` in Gamemaker.
 5. Enjoy!
 
